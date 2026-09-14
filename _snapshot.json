@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:20:32.187Z",
+  "updatedAt": "2026-09-14T08:57:57.490Z",
   "source": "feed",
   "prices": {
     "re4-remake": {
@@ -20,7 +20,7 @@
             "price": 514,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 1162,
+            "sales": 1167,
             "refunds": 0
           },
           {
@@ -28,7 +28,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2106,
+            "sales": 2114,
             "refunds": 0
           },
           {
@@ -36,7 +36,7 @@
             "price": 519,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4537,
+            "sales": 4557,
             "refunds": 0
           },
           {
@@ -44,7 +44,7 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7136,
+            "sales": 7145,
             "refunds": 0
           },
           {
@@ -76,7 +76,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2106,
+            "sales": 2114,
             "refunds": 0
           },
           {
@@ -84,7 +84,7 @@
             "price": 869,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7136,
+            "sales": 7145,
             "refunds": 0
           },
           {
@@ -92,7 +92,7 @@
             "price": 879,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4537,
+            "sales": 4557,
             "refunds": 0
           },
           {
