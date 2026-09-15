@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-14T08:57:57.490Z",
+  "updatedAt": "2026-09-15T08:42:58.378Z",
   "source": "feed",
   "prices": {
     "re4-remake": {
       "zaka-zaka": {
-        "price": 765,
+        "price": 756,
         "oldPrice": 5399,
         "base": "rrp",
         "currency": "RUB"
@@ -20,7 +20,7 @@
             "price": 514,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 1167,
+            "sales": 1168,
             "refunds": 0
           },
           {
@@ -28,7 +28,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2114,
+            "sales": 2122,
             "refunds": 0
           },
           {
@@ -36,7 +36,7 @@
             "price": 519,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4557,
+            "sales": 4575,
             "refunds": 0
           },
           {
@@ -44,7 +44,7 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7145,
+            "sales": 7149,
             "refunds": 0
           },
           {
@@ -60,7 +60,7 @@
     },
     "re4-remake-gold": {
       "zaka-zaka": {
-        "price": 919,
+        "price": 929,
         "oldPrice": 4999,
         "base": "rrp",
         "currency": "RUB"
@@ -76,7 +76,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2114,
+            "sales": 2122,
             "refunds": 0
           },
           {
@@ -84,7 +84,7 @@
             "price": 869,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7145,
+            "sales": 7149,
             "refunds": 0
           },
           {
@@ -92,7 +92,7 @@
             "price": 879,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4557,
+            "sales": 4575,
             "refunds": 0
           },
           {
@@ -108,7 +108,7 @@
     },
     "re3-remake": {
       "zaka-zaka": {
-        "price": 497,
+        "price": 424,
         "oldPrice": 2999,
         "base": "rrp",
         "currency": "RUB"
@@ -134,10 +134,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3332,
-        "oldPrice": 4760
+        "price": 3334,
+        "oldPrice": 4763
       },
-      "rate": 0.186909
+      "rate": 0.187036
     },
     "re4-remake": {
       "store": "steam",
@@ -150,9 +150,9 @@
       },
       "rub": {
         "price": 680,
-        "oldPrice": 2719
+        "oldPrice": 2721
       },
-      "rate": 0.186909
+      "rate": 0.187036
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -165,9 +165,9 @@
       },
       "rub": {
         "price": 1020,
-        "oldPrice": 3399
+        "oldPrice": 3402
       },
-      "rate": 0.186909
+      "rate": 0.187036
     },
     "re3-remake": {
       "store": "steam",
@@ -180,9 +180,9 @@
       },
       "rub": {
         "price": 544,
-        "oldPrice": 2719
+        "oldPrice": 2721
       },
-      "rate": 0.186909
+      "rate": 0.187036
     },
     "re2-remake": {
       "store": "steam",
@@ -195,9 +195,9 @@
       },
       "rub": {
         "price": 544,
-        "oldPrice": 2719
+        "oldPrice": 2721
       },
-      "rate": 0.186909
+      "rate": 0.187036
     }
   }
 }
