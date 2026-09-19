@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-09-19T08:04:47.292Z",
+  "updatedAt": "2026-09-19T09:23:09.864Z",
   "source": "feed",
   "prices": {
+    "re-requiem": {
+      "zaka-zaka": {
+        "price": 2995,
+        "oldPrice": 4999,
+        "base": "rrp",
+        "currency": "RUB"
+      }
+    },
+    "re-requiem-deluxe": {
+      "zaka-zaka": {
+        "price": 3399,
+        "oldPrice": 5599,
+        "base": "rrp",
+        "currency": "RUB"
+      }
+    },
     "re4-remake": {
       "zaka-zaka": {
         "price": 756,
@@ -28,7 +44,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2134,
+            "sales": 2135,
             "refunds": 0
           },
           {
@@ -44,7 +60,7 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7177,
+            "sales": 7178,
             "refunds": 0
           },
           {
@@ -84,7 +100,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2134,
+            "sales": 2135,
             "refunds": 0
           },
           {
@@ -92,7 +108,7 @@
             "price": 869,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7177,
+            "sales": 7178,
             "refunds": 0
           },
           {
@@ -136,6 +152,21 @@
       "rub": {
         "price": 3376,
         "oldPrice": 4823
+      },
+      "rate": 0.189387
+    },
+    "re-requiem-deluxe": {
+      "store": "steam",
+      "status": "blocked",
+      "region": "kz",
+      "native": {
+        "price": 20370,
+        "oldPrice": 29100,
+        "currency": "KZT"
+      },
+      "rub": {
+        "price": 3858,
+        "oldPrice": 5511
       },
       "rate": 0.189387
     },
