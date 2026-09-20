@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:59:48.033Z",
+  "updatedAt": "2026-09-20T08:37:21.522Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -44,7 +44,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2139,
+            "sales": 2140,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 519,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4668,
+            "sales": 4670,
             "refunds": 0
           },
           {
@@ -60,7 +60,7 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7188,
+            "sales": 7189,
             "refunds": 0
           },
           {
@@ -92,7 +92,7 @@
             "price": 859,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4668,
+            "sales": 4670,
             "refunds": 0
           },
           {
@@ -100,7 +100,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2139,
+            "sales": 2140,
             "refunds": 0
           },
           {
@@ -108,7 +108,7 @@
             "price": 869,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7188,
+            "sales": 7189,
             "refunds": 0
           },
           {
