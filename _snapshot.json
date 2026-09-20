@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:23:09.864Z",
+  "updatedAt": "2026-09-20T06:59:48.033Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -36,7 +36,7 @@
             "price": 490,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 1172,
+            "sales": 1173,
             "refunds": 0
           },
           {
@@ -44,7 +44,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2135,
+            "sales": 2139,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 519,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4647,
+            "sales": 4668,
             "refunds": 0
           },
           {
@@ -60,7 +60,7 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7178,
+            "sales": 7188,
             "refunds": 0
           },
           {
@@ -68,7 +68,7 @@
             "price": 749,
             "oldPrice": null,
             "delivery": "gift",
-            "sales": 2525,
+            "sales": 2530,
             "refunds": 0
           }
         ]
@@ -92,7 +92,7 @@
             "price": 859,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4647,
+            "sales": 4668,
             "refunds": 0
           },
           {
@@ -100,7 +100,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2135,
+            "sales": 2139,
             "refunds": 0
           },
           {
@@ -108,7 +108,7 @@
             "price": 869,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7178,
+            "sales": 7188,
             "refunds": 0
           },
           {
@@ -116,7 +116,7 @@
             "price": 1090,
             "oldPrice": null,
             "delivery": "gift",
-            "sales": 2525,
+            "sales": 2530,
             "refunds": 0
           }
         ]
@@ -134,6 +134,14 @@
       "zaka-zaka": {
         "price": 575,
         "oldPrice": 2599,
+        "base": "rrp",
+        "currency": "RUB"
+      }
+    },
+    "re2-remake-deluxe": {
+      "zaka-zaka": {
+        "price": 595,
+        "oldPrice": 3199,
         "base": "rrp",
         "currency": "RUB"
       }
@@ -227,6 +235,21 @@
       "rub": {
         "price": 551,
         "oldPrice": 2755
+      },
+      "rate": 0.189387
+    },
+    "re2-remake-deluxe": {
+      "store": "steam",
+      "status": "blocked",
+      "region": "kz",
+      "native": {
+        "price": 3637,
+        "oldPrice": 18187,
+        "currency": "KZT"
+      },
+      "rub": {
+        "price": 689,
+        "oldPrice": 3444
       },
       "rate": 0.189387
     }
