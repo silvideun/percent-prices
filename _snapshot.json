@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:17:48.398Z",
+  "updatedAt": "2026-09-28T09:49:45.973Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -50,19 +50,11 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 869,
+        "price": 3891,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
-          {
-            "id": 3652858,
-            "price": 869,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 7221,
-            "refunds": 0
-          },
           {
             "id": 3540361,
             "price": 3891,
