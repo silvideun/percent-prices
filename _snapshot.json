@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:11:34.919Z",
+  "updatedAt": "2026-10-04T09:50:30.672Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -26,17 +26,17 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 509,
+        "price": 499,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
             "id": 5606433,
-            "price": 509,
+            "price": 499,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 4930,
+            "sales": 4974,
             "refunds": 0
           },
           {
@@ -44,7 +44,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2191,
+            "sales": 2196,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7255,
+            "sales": 7264,
             "refunds": 0
           }
         ]
@@ -66,25 +66,25 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 845,
+        "price": 839,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
+            "id": 5606433,
+            "price": 839,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 4974,
+            "refunds": 0
+          },
+          {
             "id": 3652858,
             "price": 845,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7255,
-            "refunds": 0
-          },
-          {
-            "id": 5606433,
-            "price": 849,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 4930,
+            "sales": 7264,
             "refunds": 0
           },
           {
@@ -92,7 +92,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2191,
+            "sales": 2196,
             "refunds": 0
           }
         ]
