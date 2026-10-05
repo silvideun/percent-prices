@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:50:30.672Z",
+  "updatedAt": "2026-10-05T10:29:24.822Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -26,25 +26,25 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 499,
+        "price": 515,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
-            "id": 5606433,
-            "price": 499,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 4974,
-            "refunds": 0
-          },
-          {
             "id": 4424828,
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2196,
+            "sales": 2197,
+            "refunds": 0
+          },
+          {
+            "id": 5606433,
+            "price": 515,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 5026,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7264,
+            "sales": 7276,
             "refunds": 0
           }
         ]
@@ -66,25 +66,25 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 839,
+        "price": 845,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
-            "id": 5606433,
-            "price": 839,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 4974,
-            "refunds": 0
-          },
-          {
             "id": 3652858,
             "price": 845,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7264,
+            "sales": 7276,
+            "refunds": 0
+          },
+          {
+            "id": 5606433,
+            "price": 855,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 5026,
             "refunds": 0
           },
           {
@@ -92,7 +92,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2196,
+            "sales": 2197,
             "refunds": 0
           }
         ]
