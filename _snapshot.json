@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:29:24.822Z",
+  "updatedAt": "2026-10-06T10:21:14.629Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -44,7 +44,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5026,
+            "sales": 5066,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7276,
+            "sales": 7301,
             "refunds": 0
           }
         ]
@@ -76,7 +76,7 @@
             "price": 845,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7276,
+            "sales": 7301,
             "refunds": 0
           },
           {
@@ -84,7 +84,7 @@
             "price": 855,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5026,
+            "sales": 5066,
             "refunds": 0
           },
           {
@@ -134,10 +134,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3367,
-        "oldPrice": 4811
+        "price": 3381,
+        "oldPrice": 4831
       },
-      "rate": 0.188916
+      "rate": 0.189692
     },
     "re-requiem-deluxe": {
       "store": "steam",
@@ -149,10 +149,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3848,
-        "oldPrice": 5497
+        "price": 3864,
+        "oldPrice": 5520
       },
-      "rate": 0.188916
+      "rate": 0.189692
     },
     "re4-remake": {
       "store": "steam",
@@ -164,10 +164,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 687,
-        "oldPrice": 2749
+        "price": 690,
+        "oldPrice": 2760
       },
-      "rate": 0.188916
+      "rate": 0.189692
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -179,10 +179,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 1031,
-        "oldPrice": 3436
+        "price": 1035,
+        "oldPrice": 3450
       },
-      "rate": 0.188916
+      "rate": 0.189692
     },
     "re3-remake": {
       "store": "steam",
@@ -194,10 +194,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 550,
-        "oldPrice": 2749
+        "price": 552,
+        "oldPrice": 2760
       },
-      "rate": 0.188916
+      "rate": 0.189692
     },
     "re2-remake": {
       "store": "steam",
@@ -209,10 +209,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 550,
-        "oldPrice": 2749
+        "price": 552,
+        "oldPrice": 2760
       },
-      "rate": 0.188916
+      "rate": 0.189692
     },
     "re2-remake-deluxe": {
       "store": "steam",
@@ -224,10 +224,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 687,
-        "oldPrice": 3436
+        "price": 690,
+        "oldPrice": 3450
       },
-      "rate": 0.188916
+      "rate": 0.189692
     }
   }
 }
