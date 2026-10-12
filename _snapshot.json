@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:02:43.688Z",
+  "updatedAt": "2026-10-12T10:53:19.288Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -44,7 +44,7 @@
             "price": 865,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2220,
+            "sales": 2225,
             "refunds": 0
           }
         ]
@@ -62,14 +62,6 @@
       "zaka-zaka": {
         "price": 595,
         "oldPrice": 2599,
-        "base": "rrp",
-        "currency": "RUB"
-      }
-    },
-    "re2-remake-deluxe": {
-      "zaka-zaka": {
-        "price": 589,
-        "oldPrice": 3199,
         "base": "rrp",
         "currency": "RUB"
       }
