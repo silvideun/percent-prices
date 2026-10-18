@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:50:09.507Z",
+  "updatedAt": "2026-10-18T08:04:02.939Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -44,7 +44,7 @@
             "price": 899,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7439,
+            "sales": 7452,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 939,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5327,
+            "sales": 5336,
             "refunds": 0
           },
           {
