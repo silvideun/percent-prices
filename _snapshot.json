@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:27:22.892Z",
+  "updatedAt": "2026-10-26T08:58:12.808Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -26,17 +26,17 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 499,
+        "price": 515,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
             "id": 5606433,
-            "price": 499,
+            "price": 515,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5443,
+            "sales": 5462,
             "refunds": 0
           },
           {
@@ -44,7 +44,7 @@
             "price": 525,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2278,
+            "sales": 2282,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 539,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7505,
+            "sales": 7516,
             "refunds": 0
           }
         ]
@@ -84,25 +84,17 @@
     },
     "re4-remake-gold": {
       "plati": {
-        "price": 775,
+        "price": 815,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
-            "id": 4424828,
-            "price": 775,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 2278,
-            "refunds": 0
-          },
-          {
             "id": 5606433,
-            "price": 799,
+            "price": 815,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5443,
+            "sales": 5462,
             "refunds": 0
           },
           {
@@ -110,7 +102,7 @@
             "price": 839,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7505,
+            "sales": 7516,
             "refunds": 0
           }
         ]
