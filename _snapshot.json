@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:41:51.357Z",
+  "updatedAt": "2026-10-29T10:00:15.347Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -36,7 +36,7 @@
             "price": 495,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2286,
+            "sales": 2297,
             "refunds": 0
           },
           {
@@ -44,15 +44,47 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5502,
+            "sales": 5520,
             "refunds": 0
           },
           {
             "id": 3652858,
-            "price": 539,
+            "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7535,
+            "sales": 7543,
+            "refunds": 0
+          }
+        ]
+      }
+    },
+    "re4-remake-gold": {
+      "zaka-zaka": {
+        "price": 929,
+        "oldPrice": 4999,
+        "base": "rrp",
+        "currency": "RUB"
+      },
+      "plati": {
+        "price": 829,
+        "oldPrice": null,
+        "base": "rrp",
+        "currency": "RUB",
+        "lots": [
+          {
+            "id": 5606433,
+            "price": 829,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 5520,
+            "refunds": 0
+          },
+          {
+            "id": 3652858,
+            "price": 829,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 7543,
             "refunds": 0
           }
         ]
@@ -81,32 +113,6 @@
         "base": "rrp",
         "currency": "RUB"
       }
-    },
-    "re4-remake-gold": {
-      "plati": {
-        "price": 829,
-        "oldPrice": null,
-        "base": "rrp",
-        "currency": "RUB",
-        "lots": [
-          {
-            "id": 5606433,
-            "price": 829,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 5502,
-            "refunds": 0
-          },
-          {
-            "id": 3652858,
-            "price": 839,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 7535,
-            "refunds": 0
-          }
-        ]
-      }
     }
   },
   "official": {
@@ -120,10 +126,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3182,
-        "oldPrice": 4547
+        "price": 3164,
+        "oldPrice": 4520
       },
-      "rate": 0.178541
+      "rate": 0.177483
     },
     "re-requiem-deluxe": {
       "store": "steam",
@@ -135,10 +141,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3637,
-        "oldPrice": 5196
+        "price": 3615,
+        "oldPrice": 5165
       },
-      "rate": 0.178541
+      "rate": 0.177483
     },
     "re4-remake": {
       "store": "steam",
@@ -150,10 +156,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 649,
-        "oldPrice": 2598
+        "price": 646,
+        "oldPrice": 2582
       },
-      "rate": 0.178541
+      "rate": 0.177483
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -165,10 +171,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 974,
-        "oldPrice": 3247
+        "price": 968,
+        "oldPrice": 3228
       },
-      "rate": 0.178541
+      "rate": 0.177483
     },
     "re3-remake": {
       "store": "steam",
@@ -180,10 +186,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 519,
-        "oldPrice": 2598
+        "price": 516,
+        "oldPrice": 2582
       },
-      "rate": 0.178541
+      "rate": 0.177483
     },
     "re2-remake": {
       "store": "steam",
@@ -195,10 +201,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 519,
-        "oldPrice": 2598
+        "price": 516,
+        "oldPrice": 2582
       },
-      "rate": 0.178541
+      "rate": 0.177483
     },
     "re2-remake-deluxe": {
       "store": "steam",
@@ -210,10 +216,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 649,
-        "oldPrice": 3247
+        "price": 646,
+        "oldPrice": 3228
       },
-      "rate": 0.178541
+      "rate": 0.177483
     }
   }
 }
