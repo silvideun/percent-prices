@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:00:15.347Z",
+  "updatedAt": "2026-10-30T10:03:43.332Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -26,25 +26,25 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 495,
+        "price": 479,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
+            "id": 5606433,
+            "price": 479,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 5533,
+            "refunds": 0
+          },
+          {
             "id": 4424828,
             "price": 495,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2297,
-            "refunds": 0
-          },
-          {
-            "id": 5606433,
-            "price": 529,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 5520,
+            "sales": 2311,
             "refunds": 0
           },
           {
@@ -52,7 +52,7 @@
             "price": 529,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7543,
+            "sales": 7550,
             "refunds": 0
           }
         ]
@@ -66,17 +66,17 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 829,
+        "price": 779,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
             "id": 5606433,
-            "price": 829,
+            "price": 779,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5520,
+            "sales": 5533,
             "refunds": 0
           },
           {
@@ -84,7 +84,7 @@
             "price": 829,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7543,
+            "sales": 7550,
             "refunds": 0
           }
         ]
@@ -126,10 +126,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3164,
-        "oldPrice": 4520
+        "price": 3146,
+        "oldPrice": 4495
       },
-      "rate": 0.177483
+      "rate": 0.176499
     },
     "re-requiem-deluxe": {
       "store": "steam",
@@ -141,10 +141,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3615,
-        "oldPrice": 5165
+        "price": 3595,
+        "oldPrice": 5136
       },
-      "rate": 0.177483
+      "rate": 0.176499
     },
     "re4-remake": {
       "store": "steam",
@@ -156,10 +156,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 646,
-        "oldPrice": 2582
+        "price": 642,
+        "oldPrice": 2568
       },
-      "rate": 0.177483
+      "rate": 0.176499
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -171,10 +171,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 968,
-        "oldPrice": 3228
+        "price": 963,
+        "oldPrice": 3210
       },
-      "rate": 0.177483
+      "rate": 0.176499
     },
     "re3-remake": {
       "store": "steam",
@@ -186,10 +186,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 516,
-        "oldPrice": 2582
+        "price": 513,
+        "oldPrice": 2568
       },
-      "rate": 0.177483
+      "rate": 0.176499
     },
     "re2-remake": {
       "store": "steam",
@@ -201,10 +201,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 516,
-        "oldPrice": 2582
+        "price": 513,
+        "oldPrice": 2568
       },
-      "rate": 0.177483
+      "rate": 0.176499
     },
     "re2-remake-deluxe": {
       "store": "steam",
@@ -216,10 +216,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 646,
-        "oldPrice": 3228
+        "price": 642,
+        "oldPrice": 3210
       },
-      "rate": 0.177483
+      "rate": 0.176499
     }
   }
 }
