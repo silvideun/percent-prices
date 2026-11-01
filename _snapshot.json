@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:41:01.719Z",
+  "updatedAt": "2026-11-01T10:29:46.897Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -26,33 +26,33 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 495,
+        "price": 469,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
+            "id": 5606433,
+            "price": 469,
+            "oldPrice": null,
+            "delivery": "key",
+            "sales": 5589,
+            "refunds": 0
+          },
+          {
             "id": 4424828,
             "price": 495,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 2315,
-            "refunds": 0
-          },
-          {
-            "id": 5606433,
-            "price": 499,
-            "oldPrice": null,
-            "delivery": "key",
-            "sales": 5562,
+            "sales": 2318,
             "refunds": 0
           },
           {
             "id": 3652858,
-            "price": 519,
+            "price": 499,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7557,
+            "sales": 7568,
             "refunds": 0
           }
         ]
@@ -66,25 +66,25 @@
         "currency": "RUB"
       },
       "plati": {
-        "price": 799,
+        "price": 769,
         "oldPrice": null,
         "base": "rrp",
         "currency": "RUB",
         "lots": [
           {
             "id": 5606433,
-            "price": 799,
+            "price": 769,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 5562,
+            "sales": 5589,
             "refunds": 0
           },
           {
             "id": 3652858,
-            "price": 819,
+            "price": 799,
             "oldPrice": null,
             "delivery": "key",
-            "sales": 7557,
+            "sales": 7568,
             "refunds": 0
           }
         ]
