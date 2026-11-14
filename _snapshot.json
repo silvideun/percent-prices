@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:01:37.752Z",
+  "updatedAt": "2026-11-14T10:29:03.760Z",
   "source": "feed",
   "prices": {
     "re-requiem": {
@@ -36,7 +36,7 @@
     },
     "re3-remake": {
       "zaka-zaka": {
-        "price": 409,
+        "price": 445,
         "oldPrice": 2999,
         "base": "rrp",
         "currency": "RUB"
@@ -70,10 +70,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 4751,
+        "price": 4716,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     },
     "re-requiem-deluxe": {
       "store": "steam",
@@ -85,10 +85,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 5429,
+        "price": 5389,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     },
     "re4-remake": {
       "store": "steam",
@@ -100,10 +100,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2714,
+        "price": 2694,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -115,10 +115,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3393,
+        "price": 3368,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     },
     "re3-remake": {
       "store": "steam",
@@ -130,10 +130,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2714,
+        "price": 2694,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     },
     "re2-remake": {
       "store": "steam",
@@ -145,10 +145,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2714,
+        "price": 2694,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     },
     "re2-remake-deluxe": {
       "store": "steam",
@@ -160,10 +160,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3393,
+        "price": 3368,
         "oldPrice": null
       },
-      "rate": 0.186573
+      "rate": 0.185185
     }
   }
 }
