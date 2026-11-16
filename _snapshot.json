@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-11-15T10:56:57.846Z",
+  "updatedAt": "2026-11-16T11:23:15.542Z",
   "source": "feed",
   "prices": {
-    "re-requiem": {
-      "zaka-zaka": {
-        "price": 2359,
-        "oldPrice": 4999,
-        "base": "rrp",
-        "currency": "RUB"
-      }
-    },
     "re-requiem-deluxe": {
       "zaka-zaka": {
         "price": 2799,
