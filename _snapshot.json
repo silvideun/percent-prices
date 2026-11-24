@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-23T12:48:17.657Z",
+  "updatedAt": "2026-11-24T13:45:48.140Z",
   "source": "feed",
   "prices": {
     "re-requiem-deluxe": {
       "zaka-zaka": {
-        "price": 2799,
+        "price": 2749,
         "oldPrice": 5599,
         "base": "rrp",
         "currency": "RUB"
@@ -62,10 +62,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 4664,
+        "price": 4598,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     },
     "re-requiem-deluxe": {
       "store": "steam",
@@ -77,10 +77,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 5330,
+        "price": 5254,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     },
     "re4-remake": {
       "store": "steam",
@@ -92,10 +92,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2665,
+        "price": 2627,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -107,10 +107,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3331,
+        "price": 3284,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     },
     "re3-remake": {
       "store": "steam",
@@ -122,10 +122,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2665,
+        "price": 2627,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     },
     "re2-remake": {
       "store": "steam",
@@ -137,10 +137,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2665,
+        "price": 2627,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     },
     "re2-remake-deluxe": {
       "store": "steam",
@@ -152,10 +152,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3331,
+        "price": 3284,
         "oldPrice": null
       },
-      "rate": 0.183168
+      "rate": 0.180547
     }
   }
 }
