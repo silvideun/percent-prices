@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-11-25T12:58:42.163Z",
+  "updatedAt": "2026-11-26T12:38:26.179Z",
   "source": "feed",
   "prices": {
+    "re-requiem": {
+      "zaka-zaka": {
+        "price": 3259,
+        "oldPrice": 4999,
+        "base": "rrp",
+        "currency": "RUB"
+      }
+    },
     "re-requiem-deluxe": {
       "zaka-zaka": {
-        "price": 2749,
+        "price": 2699,
         "oldPrice": 5599,
         "base": "rrp",
         "currency": "RUB"
@@ -62,10 +70,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 4597,
+        "price": 4574,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     },
     "re-requiem-deluxe": {
       "store": "steam",
@@ -77,10 +85,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 5254,
+        "price": 5227,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     },
     "re4-remake": {
       "store": "steam",
@@ -92,10 +100,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2627,
+        "price": 2613,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     },
     "re4-remake-gold": {
       "store": "steam",
@@ -107,10 +115,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3283,
+        "price": 3267,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     },
     "re3-remake": {
       "store": "steam",
@@ -122,10 +130,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2627,
+        "price": 2613,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     },
     "re2-remake": {
       "store": "steam",
@@ -137,10 +145,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 2627,
+        "price": 2613,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     },
     "re2-remake-deluxe": {
       "store": "steam",
@@ -152,10 +160,10 @@
         "currency": "KZT"
       },
       "rub": {
-        "price": 3283,
+        "price": 3267,
         "oldPrice": null
       },
-      "rate": 0.180538
+      "rate": 0.179613
     }
   }
 }
